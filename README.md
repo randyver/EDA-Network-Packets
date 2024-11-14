@@ -1,1 +1,3 @@
-# EDA-Network-Packets
+# Exploratory Data Analysis Network Packets
+
+The UNSW-NB15 dataset is a collection of raw network packets generated using IXIA PerfectStorm by the Cyber Range Lab at UNSW Canberra. This dataset is designed to support research in detecting and classifying various types of network attacks. It includes data from nine attack categories—Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode, and Worms—along with one normal activity. More details and access to the dataset can be found at https://research.unsw.edu.au/projects/unsw-nb15-dataset
